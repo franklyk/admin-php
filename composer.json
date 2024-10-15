@@ -1,0 +1,17 @@
+{
+    "name": "franklin/admin-php",
+    "description": "Base para Sistema Administrativo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Franklin\\AdminPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Franklin da Silva Batista",
+            "email": "frsbatist@gmail.com"
+        }
+    ],
+    "require": {}
+}
