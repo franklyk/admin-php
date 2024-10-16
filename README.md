@@ -23,7 +23,7 @@ composer init
 ```
 Criar o Alias para o endereço de url
 Eliminar o caminho antigo 
-"Franklin\\Complan\\": "/src" (antigo)
+"Franklin\\AdminPhp\\": "src/" (antigo)
 "App\\": "app" (novo)
 
 ```
