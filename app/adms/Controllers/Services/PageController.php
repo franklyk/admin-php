@@ -43,8 +43,8 @@ class PageController
                 $this->urlParameter = $this->urlArray[1];
             }
 
-            var_dump($this->urlcontroller);
-            var_dump($this->urlParameter);
+            // var_dump($this->urlcontroller);
+            // var_dump($this->urlParameter);
         } else {
             $this->urlcontroller = SlugController::slugController("Login");
         }

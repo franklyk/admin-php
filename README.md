@@ -21,6 +21,13 @@ Criar o arquivo composer.json com a instrução básica
 ```
 composer init
 ```
+
+Instalar o arquivo de log
+```
+composer require monolog/monolog
+```
+
+
 Criar o Alias para o endereço de url
 Eliminar o caminho antigo 
 "Franklin\\AdminPhp\\": "src/" (antigo)
